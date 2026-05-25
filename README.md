@@ -1,1 +1,1 @@
-# yiel-s-diary
+# yiels-diary
